@@ -59,8 +59,12 @@ python main.py --model-name ssd --input data/crowd.mp4 --output data/crowd_ssd.m
 Link: https://youtu.be/KWHJPwwgvjU
 
 #### Результат для SSD300_vgg16
-<video controls autoplay loop src="https://github.com/user-attachments/assets/1bf52331-f117-4381-8653-89e99cd76101" muted="false" width="100%"></video>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/660cfc6c-f6c4-48d7-b487-145a08ff9d19" muted="false" width="100%"></video>
 Link: https://youtu.be/KznGhV021Dg
+
+
+
+
 
 #### Предложения по улучшению результата детектирования для YOLOv5
 1. Использование более мощной версии YOLOv5
