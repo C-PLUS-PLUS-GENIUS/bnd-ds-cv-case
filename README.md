@@ -55,7 +55,7 @@ python main.py --model-name ssd --input data/crowd.mp4 --output data/crowd_ssd.m
 - 3-й аргумент - выходное видео
 
 #### Результат для YOLOv5s
-<video controls autoplay loop src="https://github.com/user-attachments/assets/80354089-53dd-4429-b0ae-561ff8b6b8d3" muted="false" width="100%"></video>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/17eff7ee-439d-46bd-8be3-9b1b26699c22" muted="false" width="100%"></video>
 Link: https://youtu.be/uNP3gTlHcKk
 
 #### Результат для SSD300_vgg16
