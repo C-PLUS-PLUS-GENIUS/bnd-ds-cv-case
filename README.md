@@ -56,7 +56,7 @@ python main.py --model-name ssd --input data/crowd.mp4 --output data/crowd_ssd.m
 
 #### Результат для YOLOv5s
 <video controls autoplay loop src="https://github.com/user-attachments/assets/17eff7ee-439d-46bd-8be3-9b1b26699c22" muted="false" width="100%"></video>
-Link: https://youtu.be/uNP3gTlHcKk
+Link: https://youtu.be/KWHJPwwgvjU
 
 #### Результат для SSD300_vgg16
 <video controls autoplay loop src="https://github.com/user-attachments/assets/1bf52331-f117-4381-8653-89e99cd76101" muted="false" width="100%"></video>
