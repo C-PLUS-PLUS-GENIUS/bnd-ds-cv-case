@@ -37,7 +37,7 @@ Require cuDNN 9.* and CUDA 12.*, and the latest MSVC runtime.
 | YOLOv5s      | [yolov5s.onnx](https://github.com/C-PLUS-PLUS-GENIUS/bnd-ds-cv-case/tree/main/weights/yolov5s.onnx)            | 7.2M                 | 28 MB      |
 | SSD300_vgg16 | [ssd300_vgg16.onnx](https://github.com/C-PLUS-PLUS-GENIUS/bnd-ds-cv-case/tree/main/weights/ssd300_vgg16.onnx)  | 35.6M                | 140 MB     |
 
-#### Inference
+## Инференс
 
 Файл research.ipynb с загрузкой предобученных моделей из hub (требуется подключение к интернету)
 
